@@ -23,3 +23,9 @@ h3{
 ul:hover{
     color: rgb(48, 109, 167);
 }
+.Rahat{
+    display: block;
+    max-width: 100%;
+    height: 145px;
+    margin-bottom: 2%;
+}
